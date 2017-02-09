@@ -1,0 +1,6 @@
+c:\users\søren\documents\visual studio 2015\Projects\WebClientServerHTTP\WebClientServerHTTP\bin\Debug\WebClientServerHTTP.exe.config
+c:\users\søren\documents\visual studio 2015\Projects\WebClientServerHTTP\WebClientServerHTTP\obj\Debug\WebClientServerHTTP.csprojResolveAssemblyReference.cache
+c:\users\søren\documents\visual studio 2015\Projects\WebClientServerHTTP\WebClientServerHTTP\bin\Debug\WebClientServerHTTP.exe
+c:\users\søren\documents\visual studio 2015\Projects\WebClientServerHTTP\WebClientServerHTTP\bin\Debug\WebClientServerHTTP.pdb
+c:\users\søren\documents\visual studio 2015\Projects\WebClientServerHTTP\WebClientServerHTTP\obj\Debug\WebClientServerHTTP.exe
+c:\users\søren\documents\visual studio 2015\Projects\WebClientServerHTTP\WebClientServerHTTP\obj\Debug\WebClientServerHTTP.pdb
